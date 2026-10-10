@@ -5,7 +5,7 @@ A hands-on repository for learning JavaScript, TypeScript, and Playwright throug
 ## JavaScript Basics
 
 - `01_HelloWorld.js` prints a Hello World message.
-- `02_Math.js` demonstrates basic arithmetic with variables.
+- `02_Math.js` demonstrates addition, subtraction, multiplication, and division using variables.
 
 Run an example from the repository root with Node.js:
 
