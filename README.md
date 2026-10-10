@@ -1,3 +1,14 @@
 # Learning JS, TS, and Playwright
 
-A hands-on learning repository for JavaScript, TypeScript, and Playwright, organized into topic-based chapters. It begins with JavaScript basics and will grow with practical examples as the course progresses.
+A hands-on repository for learning JavaScript, TypeScript, and Playwright through small, topic-based examples. The current material starts with JavaScript basics.
+
+## JavaScript Basics
+
+- `01_HelloWorld.js` prints a Hello World message.
+- `02_Math.js` demonstrates basic arithmetic with variables.
+
+Run an example from the repository root with Node.js:
+
+```sh
+node 01_chapter_JS_Basics/02_Math.js
+```
